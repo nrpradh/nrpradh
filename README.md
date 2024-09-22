@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="left">🚀 What drives me</h2>
+<h2 align="left">🏹 My Odyssey in Tech</h2>
 
 ###
 
