@@ -10,11 +10,15 @@
 
 ###
 
-<h2 align="left">🏹 My Odyssey in Tech</h2>
+<h2 align="left">🗺 My Odyssey in Tech</h2>
 
 ###
 
-<p align="left">✨ Creating bugs since I first stepped into the coding world, constantly learning from each misstep...<br>📚 I'm currently learning and mastering React and CSS to elevate user experiences...<br>🎯 Goals: To become a frontend expert that others can rely on, then expand into backend, web animations, and creative coding that sparks joy...<br>🔧 Experience: I enjoy transforming challenges into solutions that enhance usability...<br>🎲 Fun fact: I once built a project that completely changed my perspective on coding!</p>
+<p align="left"><strong>✨ Creating bugs </strong> since I first stepped into the coding world, constantly learning from each misstep.<br>
+📚 <strong>  I'm currently learning </strong> and mastering React and CSS to elevate user experiences.<br>
+🎯 <strong> Goals: </strong> To become a reliable frontend expert, then expand into backend, web animations, and creative coding that inspires joy.<br>
+🔧 <strong> Experience: </strong>  I specialize in transforming challenges into solutions that enhance usability and improve user experiences.<br>
+🌞 <strong> Fun fact: I once built a project that completely changed my perspective on coding!</p>
 
 ###
 
