@@ -14,7 +14,9 @@
 
 ###
 
-<p align="left">I'm diving deep into React with JS and CSS, fueled by a passion for creating seamless, visually captivating user experiences. I'm always experimenting with ways to make the web more intuitive and accessible. Once I've mastered frontend development, I’ll tackle backend, web animations, and creative coding to bring even more dynamic, interactive elements to life.</p>
+<p align="left">✨ Creating bugs since I first stepped into the coding world, constantly learning from each misstep...<br>📚 I'm currently learning and mastering React and CSS to elevate user experiences...<br>🎯 Goals: To become a frontend expert that others can rely on, then expand into backend, web animations, and creative coding that sparks joy...<br>🔧 Experience: I enjoy transforming challenges into solutions that enhance usability...<br>🎲 Fun fact: I once built a project that completely changed my perspective on coding!</p>
+
+###
 
 ###
 
