@@ -51,11 +51,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/vercel/000000" height="30" alt="vercel logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="30" alt="jest logo"  />
+ 
 </div>
 
 ###
