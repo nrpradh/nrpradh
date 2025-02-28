@@ -1,8 +1,8 @@
-<h1 align="left">Hello there 👋! I'm Nathan Rahmavanya Pradhana</h1>
+<h1 align="left">Hello there 👋! I'm Nathan </h1>
 
 ###
 
-<p align="left">I'm an UI/UX enthusiast and an aspiring Frontend Developer, currently diving deep into the world of web technologies.</p>
+<p align="left">’m a self-taught and passionate enthusiast in UI/UX and Frontend, seeking opportunities to grow and make an impact by enhancing user experiences and digital interfaces.</p>
 
 ###
 
