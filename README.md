@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">’m a self-taught and passionate enthusiast in UI/UX and Frontend, seeking opportunities to grow and make an impact by enhancing user experiences and digital interfaces.</p>
+<p align="left">I’m a self-taught and passionate enthusiast in UI/UX and Frontend, seeking opportunities to grow and make an impact by enhancing user experiences and digital interfaces.</p>
 
 ###
 
@@ -10,15 +10,11 @@
 
 ###
 
-<h2 align="left">🗺 My Odyssey in Tech</h2>
+
 
 ###
 
-<p align="left"><strong>✨ Creating bugs </strong> since I first stepped into the coding world, constantly learning from each misstep.<br>
-📚 <strong>  I'm currently learning </strong> and mastering React and CSS to elevate user experiences.<br>
-🎯 <strong> Goals: </strong> To become a reliable frontend expert, then expand into backend, web animations, and creative coding that inspires joy.<br>
-🔧 <strong> Experience: </strong>  I specialize in transforming challenges into solutions that enhance usability and improve user experiences.<br>
-🌞 <strong> Fun fact: I once built a project that completely changed my perspective on coding!</p>
+<p align="left"><strong>I currently focus on improving and maintaining UI/UX design while mastering JavaScript, React, and Tailwind for frontend development. Additionally, I’m learning and trying GSAP to create web animations.</p>
 
 ###
 
