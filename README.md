@@ -1,10 +1,5 @@
 <h1 align="left">Hello there 👋! I'm Nathan </h1>
 
-###
-
-<p align="left">I’m a self-taught and passionate enthusiast in UI/UX and Frontend, seeking opportunities to grow and make an impact by enhancing user experiences and digital interfaces.</p>
-
-###
 
 <p align="left"></p>
 
@@ -14,7 +9,7 @@
 
 ###
 
-<p align="left"><strong>I currently focus on improving and maintaining UI/UX design while mastering JavaScript, React, and Tailwind for frontend development. Additionally, I’m learning and trying GSAP to create web animations.</p>
+<p align="left"><strong>Every step forward fuels my enthusiasm to learn, evolve, and push the boundaries of frontend and UI/UX design, creating experiences that are both seamless and intuitive. Currently learning frontend and testing :)</p>
 
 ###
 
