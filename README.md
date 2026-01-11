@@ -9,7 +9,7 @@
 
 ###
 
-<p align="left"><strong>Every step forward fuels my enthusiasm to learn, evolve, and push the boundaries of frontend and UI/UX design, creating experiences that are both seamless and intuitive. </p>
+<p align="left"><strong>Achieve everything you never had by designing and building things you’ve never done before.</p>
 
 ###
 
